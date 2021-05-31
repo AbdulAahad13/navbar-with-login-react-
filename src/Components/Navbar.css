@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.nav-links {
+  width: 100%;
+  height: 100px;
+  color: blue;
+}
+.nav-links ul li a{
+     text-decoration: none;
+     
+}
